@@ -17,7 +17,7 @@ $ rm master.zip <br/>
 $ rm README.md <br/> <br/>
 Your *MyDir* folder must now look like this: <br/> 
 Traffic.jpg <br/>
-ZF_faster_rcnn_final.bin <br/>
+ZF_faster_rcnn_final.bin (download this file from: https://drive.google.com/open?id=1w3F4PL03SVtvoS_ux_GfCkY0YLMGH-yA )<br/>
 ZF_faster_rcnn_final.proto <br/>
 Faster_rcnn.cpb <br/>
 fasterrcnn.cpp <br/>
