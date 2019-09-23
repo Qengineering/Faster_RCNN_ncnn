@@ -2,8 +2,8 @@
 Papers <br/>
 https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf <br/>
 Training set: VOC2007 <br/>
-Size: 600x600 <br/>
-Prediction time: 44890 mSec(!) (RPi 4) <br/>
+Size: 600x600 (!) <br/>
+Prediction time: 26042 mSec(!) (RPi 4) <br/>
 <br/>
 Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
 <br/>
@@ -22,7 +22,7 @@ ZF_faster_rcnn_final.proto <br/>
 Faster_rcnn.cpb <br/>
 fasterrcnn.cpp <br/>
  <br/>
-Run MobiYO.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
+Run Faster_rcnn.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 
 ![output image]( https://qengineering.eu/images/Faster_rcnn_trafic.jpg )
 
