@@ -10,7 +10,7 @@ Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examp
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
-$ wget https://github.com/Qengineering/Faster_RCNN_ncnn/archive/master.zip <br/>
+$ wget https://github.com/Qengineering/Faster_RCNN_ncnn/archive/refs/heads/master.zip <br/>
 $ unzip -j master.zip <br/>
 Remove master.zip and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
